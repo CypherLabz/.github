@@ -11,6 +11,5 @@ At CypherLabz, we believe that the decentralized web is the future, and we striv
 - **saintmaxi** - The Dopest DAPP Integrator in the space. Web3, Ethers, and Integrations.
 - **pokatow** - Front-End Developer & Designer. Awesome individual. Svelte and JS.
 - **Sharp** - Intern & Bot Developer.
-- **natebankz** - Researcher
 
 Whether you're looking to build a new web3 application, improve an existing one, or contribute to open-source projects in the space, CypherLabz is here to help. Contact us today to learn more about our services and how we can help you achieve your goals in the decentralized web.
