@@ -6,10 +6,10 @@ At CypherLabz, we believe that the decentralized web is the future, and we striv
 
 ## Our Team
 
-- **0xInuarashi** - CEO & Team Lead. Solidity Developer
-- **0xAkihiko** - Code Genius & Crypto Evangelist. Back-End and Security.
-- **saintmaxi** - The Dopest DAPP Integrator in the space. Web3, Ethers, and Integrations.
-- **pokatow** - Front-End Developer & Designer. Awesome individual. Svelte and JS.
+- **0xInuarashi** - Lead Developer. Solidity & Functional Design.
+- **0xAkihiko** - Lead Developer. Auditing & Back-End Systems.
+- **saintmaxi** - Core Developer. Web3 Integration & DAPP Development.
+- **pokatow** - Core Developer. Front-End Development.
 - **Sharp** - Intern & Bot Developer.
 
 Whether you're looking to build a new web3 application, improve an existing one, or contribute to open-source projects in the space, CypherLabz is here to help. Contact us today to learn more about our services and how we can help you achieve your goals in the decentralized web.
